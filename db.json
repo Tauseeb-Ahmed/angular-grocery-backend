@@ -2,10 +2,10 @@
   "groceries": [
     {
       "id": "1",
-      "name": "Apples",
-      "quantity": 12,
+      "name": "Apples sdAS SD",
+      "quantity": 12212212134,
       "category": "Fruits",
-      "lowStockThreshold": 5,
+      "lowStockThreshold": 53333,
       "notes": "Buy organic if available",
       "image": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg"
     },
@@ -17,24 +17,6 @@
       "lowStockThreshold": 4,
       "notes": "Whole milk preferred",
       "image": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg"
-    },
-    {
-      "id": "3",
-      "name": "Chicken Breast",
-      "quantity": 2,
-      "category": "Meat",
-      "lowStockThreshold": 3,
-      "notes": "",
-      "image": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg"
-    },
-    {
-      "id": "4",
-      "name": "Carrots",
-      "quantity": 8,
-      "category": "Vegetables",
-      "lowStockThreshold": 5,
-      "notes": "For making soup",
-      "image": "https://images.pexels.com/photos/3650647/pexels-photo-3650647.jpeg"
     },
     {
       "id": "5",
@@ -52,6 +34,28 @@
       "category": "Fruits",
       "lowStockThreshold": 5,
       "notes": "sfasasf"
+    },
+    {
+      "id": "be59",
+      "name": "sdfsf",
+      "quantity": 132,
+      "category": "Beverages",
+      "lowStockThreshold": 10,
+      "notes": "asdfsf"
+    },
+    {
+      "id": "de2c",
+      "name": "New Tsest item",
+      "quantity": 2888,
+      "category": "Fruits",
+      "lowStockThreshold": 5
+    },
+    {
+      "id": "821c",
+      "name": "Breads",
+      "quantity": 1,
+      "category": "Fruits",
+      "lowStockThreshold": 5
     }
   ]
 }
