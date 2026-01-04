@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "json-server --watch db.json --port 3000"
+    "server": "json-server --watch db.json --port 3000",
+    "vercel-build": "echo \"Skipping build (serverless function)\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "devDependencies": {
-    "json-server": "^1.0.0-beta.3"
-  }
+  "dependencies": {}
 }
